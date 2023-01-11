@@ -9,3 +9,7 @@ To start working:
   * then select the `.venv: pipenv` Python version
 
 Have fun!
+
+This is my hardware setup for running the `test_nano_hil`:
+
+![alt text](hw_setup.png "")
